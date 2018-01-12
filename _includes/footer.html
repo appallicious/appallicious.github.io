@@ -1,0 +1,45 @@
+<footer class="site-footer">
+
+  <div class="wrapper2">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            <li><a href="mailto:info@appallicious.com">info@appallicious.com</a></li>
+            <li>&#174; 2017 Appallicious. All rights reserved.</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+          {% if site.facebook_username %}
+            <li>
+              <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                <img style='width: 16px; padding-right:5px;' src="{{ "/assets/facebook.png" | absolute_url }}" /> appallicious
+              </a>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

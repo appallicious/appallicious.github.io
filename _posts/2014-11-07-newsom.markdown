@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Newsom Highlights Appallicious’ Open Data Efforts in Keynote Address"
+date:   2017-11-16 11:47:35 -0800
+categories: jekyll update
+---
+Yesterday, California Lieutenant Governor Gavin Newsom delivered the keynote addressat #InnovateCA in Sacramento hosted by Techwire and CALinnovates. In his remarks, Newsom called on California agencies to step up and become a leader in the open data movement.
+
+During his speech, the Lieutenant Governor called out the work Appallicious has done, made possible, in part by San Francisco’s open data efforts.
+
+“When I was Mayor in 2009, we required open data sets. Machine readable, downloaded, open data. It cost us nothing. You heard from one of the folks that benefited from it today, [Appallicious CEO and co-founder] Yo [Yoshida]…these private sector companies that started to pop up because we decided to take information that was captured in the vaults of government, and just put some simple data sets and make them available.”
+
+Newsom went on to talk about the “vested interests” trying to maintain the status quo, and keep companies like Appallicious from working with government to help its citizens.
+
+“The vested interests are writing your RFIs. They’re helping draft our RFQs and our RFPs. They’ve got teams of lawyers working full-time, but the Appalliciouses of the world, all these other folks, they don’t have the capacity to compete, so it’s an incumbent protection act. An IT cartel that has been fabulous, but it’s a closed system in a radically open world. It’s gotta be broken down.”
+
+Appallicious is extremely grateful for Lieutenant Governor Newsom’s support, and all the work he has done to strengthen open data efforts both in San Francisco, and throughout California.
+
+Watch his entire keynote <a href="https://www.youtube.com/watch?feature=player_embedded&v=ZrxeCOus31U#t=1364" target="_blank">here</a>

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "The World Wide Web at 20"
+date:   2017-11-16 11:47:35 -0800
+categories: jekyll update
+---
+Twenty years ago, the Internet, was made available to the public, for free. The “World Wide Web” had only been created a few years before, by group of nuclear physicists at CERN (the European Organization for Nuclear Research), to make it easier to share their findings with other experts in their industry. But on April 30, 1993, in its statement, CERN relinquished “all intellectual property rights to this code, both source and binary form and permission is granted for anyone to use, duplicate, modify and redistribute it.” These guys had created the Internet, arguably one the most revolutionary inventions ever, and simply gave it away.
+Looking back, it might seem like CERN could have made billions, if not trillions of dollars with this masterpiece of technology. But if they had restricted access to their invention with paywalls and subscriptions, we would have never see the internet turn into something that is now part of our everyday lives. Obviously CERN thought they had something special and needed to share it with the world. Turns out they were right, which actually isn’t that surprising…they’re nuclear physicists after all.
+
+To mark the twentieth anniversary, CERN put the very first website ever created back onlineusing its original URL. It’s pretty neat to look at, just to see how far we’ve come over the past two decades, and equally as cool, how the overall purpose of the Internet hasn’t changed since it’s inception back in 1989:
+
+The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents.
+
+This is what open data movement is all about — making information publicly available to benefit society. Open data efforts in cities like San Francisco, Philadelphia, Austin, and others is helping spur the creation of mobile applications for citizens that make it easier for residents to interact directly with their local governments and hold their city leaders accountable. As Bono said at arecent TED talk on the power of open data: “We know that the biggest disease of all is not a disease. It’s corruption. But there’s a vaccine for that too. It’s called transparency, open data sets…daylight.”
+
+With the potential this type of accessibility, any citizen will have the power to make a big difference in their community, which just wasn’t possible before cities started opening up their data. Think about all the social advocates, charities, and awareness campaigns online. If CERN hadn’t open up the Internet to the public, these efforts would not have been possible on the global scale in which they are able to operate.
+
+The push Appallicious is making, encouraging governments to make their data publicly available is not all that new of an idea. We’ve seen the success and the impact that an open Internet has had on a global level, and we want to see the same thing happen locally, in cities throughout the country, and eventually the world. And Appallicious isn’t the only one making this push. Organizations like Code For America, and innovative leaders like California Lieutenant Governor Gavin Newsom and San Francisco Mayor Ed Lee have been on the some of the most vocal proponents of an open data revolution. Lieutenant Governor Newsom has even teamed up with Code for America and created the Citizenville Challenge as part of his inspiring book on the topic. The Challenge asks cities across the country to pledge to work towards integrating technology initiatives within local government within the year. Over 20 cities have already taken the pledge. We’ve seen what happens when you make information publicly accessible like CERN did twenty years ago; imagine the what’s possible, if cities and local governments start doing the same. If your city or town hasn’t taken the Citizenville Challenge yet, what are you waiting for? Take the Challenge now!
+
+

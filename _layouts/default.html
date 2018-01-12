@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  
+  <!-- {% if page.url == "/" %}
+    <body class='background-photo'>
+  {% else %} -->
+    <body>
+  <!-- {% endif %} -->
+
+    {% include header.html %}
+
+    {% if page.url == "/" %}
+      <main class="page-content2" aria-label="Content">
+    {% else %}
+      <main class="page-content" aria-label="Content">
+    {% endif %} 
+    <!-- <main class="page-content" aria-label="Content"> -->
+      <!-- <div class="wrapper"> -->
+<!--       {% if page.url == "/" %}
+        <div class="wrapper2">
+      {% else %} -->
+      <div class="wrapper">
+      <!-- {% endif %} -->
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
