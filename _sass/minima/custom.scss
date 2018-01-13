@@ -1,5 +1,5 @@
 .background-photo {
-  // background: url("./././gg.jpg");
+  background: url("./././gg.jpg");
 
   .page-content {
   	padding: 0;
@@ -13,6 +13,19 @@
   height: 100vh;
 }
 
+.home-blurbs{
+	text-align: center;
+
+	.home-products {
+		padding: 0 30px;
+		display: inline-block;
+	}
+}
+/*.home-products {
+	display: inline-block;
+	text-align: center;
+}*/
+
 
 .header-logo {
 	width: 30px;
@@ -22,9 +35,9 @@
 	display: none;
 }
 
-// .white {
-// 	color: white !important;
-// }
+.white {
+	color: white !important;
+}
 
 #tagline {
 	color: white;
@@ -117,7 +130,7 @@
 }
 
 
-// MEDIA
+/*// MEDIA*/
 #press-list {
 	list-style: none;
 	text-align: center;
