@@ -1,6 +1,6 @@
 ---
 layout: product
-title:  "Disaster Assessment and Assistance Dashboard"
+title:  "Disaster Assessment and Assistance Dashboard (DAAD)"
 name: daad
 categories: product daad
 ---

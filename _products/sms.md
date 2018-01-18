@@ -1,6 +1,6 @@
 ---
 layout: product
-title:  "Shelter Management System"
+title:  "Shelter Management System (SMS)"
 name: sms
 categories: product sms
 ---

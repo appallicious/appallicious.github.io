@@ -26,7 +26,7 @@ permalink: /contact/
   <br>
   San Francisco, CA
 </div>
-<br><br>
-<h4>SUPPORT ENQUIRIES</h4>
-
-If you have a question about a charge please email our help desk at help@appallicious.com Please supply the last 4 digits of your card and the value & date/time of the transaction.
+<div id='contact-second-paragraph'>
+  <h4>SUPPORT ENQUIRIES</h4>
+  If you have a question about a charge please email our help desk at <a href='mailto:help@appallicious.com'>help@appallicious.com</a> Please supply the last 4 digits of your card and the value & date/time of the transaction.
+</div>
