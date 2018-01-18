@@ -7,7 +7,7 @@ categories: product sms
 SMS
 
 <div class='image-container'>
-	<img class='product-type imgs first-img' src='{{ '/assets/sms1.png' | absolute_url }}' />
-	<img class='product-type imgs second-img' src='{{ '/assets/sms_admin.png' | absolute_url }}' />
-	<img class='product-type imgs third-img' src='{{ '/assets/sms_mock.jpg' | absolute_url }}' />
+	<img class='product-type imgs first-img' src='{{ '/assets/sms4.png' | absolute_url }}' />
+	<img class='product-type imgs second-img' src='{{ '/assets/sms2.png' | absolute_url }}' />
+	<img class='product-type imgs third-img' src='{{ '/assets/sms3.png' | absolute_url }}' />
 </div>

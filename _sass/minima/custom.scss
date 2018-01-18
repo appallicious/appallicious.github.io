@@ -24,7 +24,7 @@
 	
 }
 // #products-content {
-#more-products-link {
+.more-products-link {
 	display: block;
 	color: black;
   margin: 0 auto;
@@ -35,6 +35,7 @@
   border: 1px solid black;
   width: 200px;
   font-weight: 200;
+  text-align: center;
 }
 // }
 /*.home-products {
@@ -81,7 +82,7 @@
 #contact-form{
 	width: 50%;
 	float: left;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 
 	p {
 		margin-bottom: 0;
