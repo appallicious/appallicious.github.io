@@ -28,6 +28,9 @@
 .example-images-container {
 	display: flex;
 	justify-content: space-between;
+	@include media-query($on-palm) {
+		flex-direction: column;
+	}
 
 }
 .example-image-div {
@@ -38,6 +41,10 @@
 
 	img {
 		height: 110px;
+	}
+
+	@include media-query($on-palm) {
+		width: 100%;
 	}
 }
 .example-image-blurb {
