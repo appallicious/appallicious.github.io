@@ -23,6 +23,36 @@
 
 	
 }
+
+// ABOUT SECTION
+.example-images-container {
+	display: flex;
+	justify-content: space-between;
+
+}
+.example-image-div {
+	width: 30%;
+	text-align:center;
+	display: flex;
+  flex-direction: column;
+
+	img {
+		height: 110px;
+	}
+}
+.example-image-blurb {
+	text-align: center;
+	color: white;
+	background: #469bd3;
+	padding: 10px;
+	flex-grow: 1;
+}
+.about-container {
+	h4 {
+		margin-top: 50px;
+	}
+}
+
 // #products-content {
 .more-products-link {
 	display: block;
